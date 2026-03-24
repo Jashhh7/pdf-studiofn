@@ -1,0 +1,5 @@
+{
+  "name": "PDF STUDIO",
+  "description": "A professional PDF utility suite with 6 core functionalities: PDF to Word, PPT to PDF, Word to PDF, PDF Merge, Image to PDF, and Watermark.",
+  "requestFramePermissions": ["microphone"]
+}
